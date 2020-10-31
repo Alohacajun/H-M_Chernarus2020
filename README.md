@@ -1,6 +1,8 @@
 #Hearts and Minds- Chernarus 2020
+
 ***This is the repository for the Chernarus 2020 port of Hearts and Minds, created by the Black Templars clan.
 You can find the original project here:***
+
 https://github.com/Vdauphin/HeartsAndMinds
 [H&M Wiki](http://vdauphin.github.io/HeartsAndMinds/).
 
